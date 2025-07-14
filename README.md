@@ -16,31 +16,37 @@ This project investigates over 1,000 clinical cases of skin cancer using SQL que
 
 ## Data Highlights
 
-- **Environmental Factors**:
+**Environmental Factors**:
 - 45% of malignant cases involve pesticide exposure
 - 80% of precancerous cases lack proper sewage or piped water access
 
-- **Demographic Patterns**:
+
+**Demographic Patterns**:
 - Highest cancer prevalence in males aged 50–69 with history of smoking and alcohol use
 - Malignant cases had the highest association with skin cancer history (45%) and other cancer history (54%)
 
-- **Lesion Characteristics**:
+
+**Lesion Characteristics**:
 - Melanoma average lesion size: 197.58mm²
 - Biopsy inconsistencies: precancerous lesions frequently symptomatic but not confirmed via biopsy
 
-- **Risk Cohorts**:
+
+**Risk Cohorts**:
 - 50+ high-risk patients flagged for priority follow-up
+
 
 ## Tech Stack
 - PostgreSQL + pgAdmin
 - Microsoft Excel
 - Microsoft PowerPoint
 
+
 ## Recommendations
 - Policy-level interventions to control pesticide exposure
 - Active monitoring of symptomatic yet biopsy-negative cases
 - Early screening protocols for aging demographics
 - ML model development using lesion and environmental features
+
 
 ## Next Steps
 This dataset forms the backbone for predictive modeling in healthcare diagnostics, driving machine learning development, research studies, and public health initiatives.

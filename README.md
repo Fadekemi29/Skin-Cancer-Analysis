@@ -10,7 +10,6 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 - [Technology Stack](#tech-stack)
 - [Analytical Insights](#analytical-insights)
 - [Recommendations](#recommendations)
-- [Assets](#assets)
 
 ## Project Overview
 This project investigates over 1,000 clinical cases of skin cancer using SQL queries and statistical analysis to uncover diagnostic patterns, environmental and demographic risk factors, and lesion characteristics. The goal is to improve early detection and enable ML-ready datasets for future predictive models in dermatology.

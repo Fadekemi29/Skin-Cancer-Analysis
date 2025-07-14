@@ -2,9 +2,6 @@
 ![SkinCancer](https://github.com/user-attachments/assets/b30a6334-5ebb-417b-a489-68823c07a11f)
 
 # Skin-Cancer-Analysis
-Analyzing skin cancer cases with SQL to uncover lesion patterns, diagnostic risks, and prepare data for ML predictions.
-
-# DermAI Diagnostic - Skin Cancer SQL Analytics Project
 Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Prepares data for SQL queries, analysis, and ML models to improve early diagnosis.
 
 ## Table of Contents

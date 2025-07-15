@@ -28,7 +28,7 @@ This project investigates over 1,000 clinical cases of skin cancer using SQL que
 - ML-Ready Output: Packaged structured data for future machine learning models
 
 
-## Data Highlights
+## Key Insights
 
 **Environmental Factors**:
 - 45% of malignant cases involve pesticide exposure
@@ -53,6 +53,7 @@ This project investigates over 1,000 clinical cases of skin cancer using SQL que
 - PostgreSQL + pgAdmin
 - Microsoft Excel
 - Microsoft PowerPoint
+- Microsoft Word
 
 
 ## Recommendations

@@ -1,5 +1,5 @@
 
-![SkinCancer](https://github.com/user-attachments/assets/b30a6334-5ebb-417b-a489-68823c07a11f)
+![SkinCancer](https://github.com/user-attachments/assets/68b4e44f-5f54-4a66-a1f9-2852fcfda379)
 
 # Skin-Cancer-Analysis
 Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Prepares data for SQL queries, analysis, and ML models to improve early diagnosis.
